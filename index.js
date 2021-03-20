@@ -60,7 +60,7 @@ inquirer
 
   .then(function (data) {
     console.log(data);
-    fs.writeFile("katetest.md", convertToMarkDown(data), () =>
+    fs.writeFile("KateReadMe.md", convertToMarkDown(data), () =>
       console.log("Wrote to file.")
     );
   });

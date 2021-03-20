@@ -1,8 +1,8 @@
-# Kate
+# Kate's ReadMe Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This is a read me file generator.
+This is a generator to create ReadMe files that can be standardized across all portfolio projects
 
 
 ## Table of Contents 
@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 ​
-Here's how you use this file.
+Here is the usage information.
 
 ## License
 
@@ -38,12 +38,12 @@ The following license is used in this application:
 
 ## Contributing
 
-Here are contribution guidelines
+Here is how to contribute to this repository.
 
 ## Tests
 
 To run tests, run the following:
-These are the tests you  should run.
+You should run the following tests.
 
 ```
 npm test
